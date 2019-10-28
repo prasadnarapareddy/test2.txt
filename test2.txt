@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 822E-BA20
+
+ Directory of C:\Users\mohan\Desktop\gittest2
+
+28-10-2019  20:47    <DIR>          .
+28-10-2019  20:47    <DIR>          ..
+28-10-2019  20:47                 0 test2.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  115,605,561,344 bytes free
